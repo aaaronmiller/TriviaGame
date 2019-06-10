@@ -6,4 +6,4 @@ Since ok button does not appear, cannot test page reload either.
 
 <!-- clicking submit opens several windows.FIXED -->
 
-timer goes to negative value.
+<!-- timer goes to negative value. FIXED -->
