@@ -1,9 +1,9 @@
 
-
-
 body {
     text-align: center;
     background-color: Salmon;
     font-color: black;
     
+    background-image: url("../images/dog.jpg");
+    background-repeat: repeat;
 }
